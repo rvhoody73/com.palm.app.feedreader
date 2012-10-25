@@ -1,0 +1,10 @@
+{
+  "id": "com.palm.app.feedreader",
+  "version": "1.0.0",
+  "vendor": "HP",
+  "type": "web",
+  "main": "index.html",
+  "title": "Enyo FeedReader",
+  "uiRevision": "2"
+  }
+
