@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="enyo/minify/|enyo/source/ajax/|enyo/tools/minifier/node_modules/less/lib/less/|enyo/source/kernel/|enyo/tools/test/core/tests/|enyo/tools/minifier/node_modules/uglify-js/test/unit/|enyo/tools/minifier/node_modules/nopt/examples/|enyo/tools/minifier/node_modules/less/lib/less/tree/|enyo/samples/|enyo/tools/minifier/node_modules/uglify-js/|enyo/tools/minifier/node_modules/less/benchmark/|enyo/tools/minifier/node_modules/uglify-js/lib/|enyo/tools/minifier/node_modules/less/test/|enyo/tools/minifier/node_modules/nopt/node_modules/abbrev/lib/|enyo/tools/minifier/node_modules/nopt/bin/|source/|enyo/source/boot/|enyo/source/touch/|enyo/tools/test/ajax/tests/|enyo/tools/minifier/node_modules/nopt/lib/|enyo/samples/assets/|enyo/tools/minifier/node_modules/|enyo/tools/minifier/|enyo/|enyo/tools/minifier/node_modules/uglify-js/tmp/|enyo/source/dom/|enyo/tools/test/core/|enyo/tools/minifier/node_modules/uglify-js/test/unit/compress/test/|enyo/source/ui/|enyo/tools/test/ajax/|enyo/tools/minifier/node_modules/less/dist/|enyo/tools/minifier/node_modules/uglify-js/test/|enyo/source/|enyo/tools/minifier/node_modules/less/build/|enyo/tools/minifier/node_modules/uglify-js/test/unit/compress/expected/" kind="src" path=""/>
+	<classpathentry excluding="minify/|source/ajax/|tools/minifier/node_modules/less/lib/less/|source/kernel/|tools/test/core/tests/|tools/minifier/node_modules/uglify-js/test/unit/|tools/minifier/node_modules/nopt/examples/|tools/minifier/node_modules/less/lib/less/tree/|samples/|tools/minifier/node_modules/uglify-js/|tools/minifier/node_modules/less/benchmark/|tools/minifier/node_modules/uglify-js/lib/|tools/minifier/node_modules/less/test/|tools/minifier/node_modules/nopt/node_modules/abbrev/lib/|tools/minifier/node_modules/nopt/bin/|source/boot/|source/touch/|tools/test/ajax/tests/|tools/minifier/node_modules/nopt/lib/|samples/assets/|tools/minifier/node_modules/|tools/minifier/|tools/minifier/node_modules/uglify-js/tmp/|source/dom/|tools/test/core/|tools/minifier/node_modules/uglify-js/test/unit/compress/test/|source/ui/|tools/test/ajax/|tools/minifier/node_modules/less/dist/|tools/minifier/node_modules/uglify-js/test/|source/|tools/minifier/node_modules/less/build/|tools/minifier/node_modules/uglify-js/test/unit/compress/expected/" kind="src" path="enyo"/>
+	<classpathentry kind="src" path="enyo/minify"/>
+	<classpathentry excluding="assets/" kind="src" path="enyo/samples"/>
+	<classpathentry kind="src" path="enyo/samples/assets"/>
+	<classpathentry excluding="ajax/|kernel/|boot/|touch/|dom/|ui/" kind="src" path="enyo/source"/>
+	<classpathentry kind="src" path="enyo/source/ajax"/>
+	<classpathentry kind="src" path="enyo/source/boot"/>
+	<classpathentry kind="src" path="enyo/source/dom"/>
+	<classpathentry kind="src" path="enyo/source/kernel"/>
+	<classpathentry kind="src" path="enyo/source/touch"/>
+	<classpathentry kind="src" path="enyo/source/ui"/>
+	<classpathentry excluding="node_modules/less/lib/less/|node_modules/uglify-js/test/unit/|node_modules/nopt/examples/|node_modules/less/lib/less/tree/|node_modules/uglify-js/|node_modules/less/benchmark/|node_modules/uglify-js/lib/|node_modules/less/test/|node_modules/nopt/node_modules/abbrev/lib/|node_modules/nopt/bin/|node_modules/nopt/lib/|node_modules/|node_modules/uglify-js/tmp/|node_modules/uglify-js/test/unit/compress/test/|node_modules/less/dist/|node_modules/uglify-js/test/|node_modules/less/build/|node_modules/uglify-js/test/unit/compress/expected/" kind="src" path="enyo/tools/minifier"/>
+	<classpathentry excluding="less/lib/less/|uglify-js/test/unit/|nopt/examples/|less/lib/less/tree/|uglify-js/|less/benchmark/|uglify-js/lib/|less/test/|nopt/node_modules/abbrev/lib/|nopt/bin/|nopt/lib/|uglify-js/tmp/|uglify-js/test/unit/compress/test/|less/dist/|uglify-js/test/|less/build/|uglify-js/test/unit/compress/expected/" kind="src" path="enyo/tools/minifier/node_modules"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/less/benchmark"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/less/build"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/less/dist"/>
+	<classpathentry excluding="tree/" kind="src" path="enyo/tools/minifier/node_modules/less/lib/less"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/less/lib/less/tree"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/less/test"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/nopt/bin"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/nopt/examples"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/nopt/lib"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/nopt/node_modules/abbrev/lib"/>
+	<classpathentry excluding="test/unit/|lib/|tmp/|test/unit/compress/test/|test/|test/unit/compress/expected/" kind="src" path="enyo/tools/minifier/node_modules/uglify-js"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/uglify-js/lib"/>
+	<classpathentry excluding="unit/|unit/compress/test/|unit/compress/expected/" kind="src" path="enyo/tools/minifier/node_modules/uglify-js/test"/>
+	<classpathentry excluding="compress/test/|compress/expected/" kind="src" path="enyo/tools/minifier/node_modules/uglify-js/test/unit"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/uglify-js/test/unit/compress/expected"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/uglify-js/test/unit/compress/test"/>
+	<classpathentry kind="src" path="enyo/tools/minifier/node_modules/uglify-js/tmp"/>
+	<classpathentry excluding="tests/" kind="src" path="enyo/tools/test/ajax"/>
+	<classpathentry kind="src" path="enyo/tools/test/ajax/tests"/>
+	<classpathentry excluding="tests/" kind="src" path="enyo/tools/test/core"/>
+	<classpathentry kind="src" path="enyo/tools/test/core/tests"/>
+	<classpathentry kind="src" path="source"/>
+	<classpathentry kind="con" path="org.eclipse.wst.jsdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
